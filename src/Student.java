@@ -5,7 +5,7 @@ public class Student {
     private int studentId;
 
     // 2. Constructor
-    public Student(String name, int studentId) {
+    public Student(String name, int studentID)  {
         this.name = name;
         this.studentId = studentId;
     }
